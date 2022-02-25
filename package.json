@@ -1,0 +1,26 @@
+{
+  "name": "be-oefening",
+  "version": "1.0.0",
+  "description": "express, routing ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Whtneyas/be-oefening.git"
+  },
+  "keywords": [
+    "express",
+    "rotuing"
+  ],
+  "author": "Whitney Abrah",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Whtneyas/be-oefening/issues"
+  },
+  "homepage": "https://github.com/Whtneyas/be-oefening#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
